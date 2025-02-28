@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISLoadEmployees", "SSISLoadEmployees.dtproj", "{E7142AED-B6E1-F944-6A2E-E3E12E77AE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7142AED-B6E1-F944-6A2E-E3E12E77AE28}.Azure|Default.ActiveCfg = Azure
+		{E7142AED-B6E1-F944-6A2E-E3E12E77AE28}.Azure|Default.Build.0 = Azure
+		{E7142AED-B6E1-F944-6A2E-E3E12E77AE28}.Development|Default.ActiveCfg = Development
+		{E7142AED-B6E1-F944-6A2E-E3E12E77AE28}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592E141F-8BC2-41C4-9771-9A5B8D6D94B2}
+	EndGlobalSection
+EndGlobal
