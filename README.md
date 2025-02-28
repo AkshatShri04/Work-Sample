@@ -5,6 +5,13 @@
 **SSISProject** includes a SQL Server Integration Services (SSIS) package that bulk-loads employee data from a CSV file into the same Employees table used by the CrudApp application, showcasing how to integrate external data sources into a SQL Server database.
 
 ---
+## Prerequisites
+
+- Install the [.NET SDK](https://dotnet.microsoft.com/download) (version 6.0 or later).  
+- A local instance of **SQL Server** (Express, Developer, or equivalent).  
+- **Visual Studio 2022** (or later) with:
+  - ASP.NET and web development workload  
+  - SQL Server Data Tools (SSDT) and SSIS extension
 
 ## Key Points
 
